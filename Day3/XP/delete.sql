@@ -1,0 +1,1 @@
+delete from new_film where id = 1;
